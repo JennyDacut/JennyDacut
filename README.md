@@ -1,5 +1,6 @@
-# Hi there 👋  
-![Waving Hamster](<URL-TO-YOUR-HAMSTER-GIF>)
+# Hi there 🐹
+![Waving Hamster](https://raw.githubusercontent.com/JennyDacut/JennyDacut/main/waving_hamster_glasses.gif)
+
 
 
 <!--
