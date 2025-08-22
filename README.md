@@ -1,5 +1,5 @@
 # Hi there 🐹
-![Circle of Waving Hamsters](https://raw.githubusercontent.com/JennyDacut/JennyDacut/main/waving_hamster_circle.gif)
+![Waving Hamster](https://raw.githubusercontent.com/JennyDacut/JennyDacut/main/waving_hamster_glasses.gif)
 
 
 <!--
