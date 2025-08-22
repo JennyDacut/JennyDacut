@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi there 👋  
+![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
+
 
 <!--
 **JennyDacut/JennyDacut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
