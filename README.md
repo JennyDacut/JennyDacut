@@ -1,8 +1,12 @@
 # Hi there 🐹
-![Hamster 1](https://i.pinimg.com/originals/bb/cf/25/bbcf25dc567bc5d6f66f95e0df432fba.gif)  
-![Hamster 2](https://i.pinimg.com/originals/9c/24/46/9c2446cae0a01033b8c41bf34b16d065.gif)  
-![Hamster 3](https://media.tenor.com/eE5KOHK7oJ0AAAAj/poki-hamster.gif)  
-![Hamster 4](https://media.tenor.com/3cyR9cXe9XQAAAAj/poki-hamster.gif)  
+<table>
+  <tr>
+    <td><img src="https://i.pinimg.com/originals/bb/cf/25/bbcf25dc567bc5d6f66f95e0df432fba.gif" width="150"></td>
+    <td><img src="https://i.pinimg.com/originals/9c/24/46/9c2446cae0a01033b8c41bf34b16d065.gif" width="150"></td>
+    <td><img src="https://media.tenor.com/eE5KOHK7oJ0AAAAj/poki-hamster.gif" width="150"></td>
+    <td><img src="https://media.tenor.com/3cyR9cXe9XQAAAAj/poki-hamster.gif" width="150"></td>
+  </tr>
+</table>
 
 <!--
 **JennyDacut/JennyDacut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
