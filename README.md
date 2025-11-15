@@ -1,11 +1,5 @@
 # Hi there 🐹
-<table>
-  <tr>
-    <td><img src="https://media.tenor.com/eE5KOHK7oJ0AAAAj/poki-hamster.gif" width="150"></td>
-    <td><img src="https://media.tenor.com/3cyR9cXe9XQAAAAj/poki-hamster.gif" width="150"></td>
-  </tr>
-</table>
-
+<img src="https://media.tenor.com/eE5KOHK7oJ0AAAAj/poki-hamster.gif" alt="Hamster 3" width="150">
 \
 **JennyDacut/JennyDacut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
